@@ -1,2 +1,2 @@
 # sailing_rf
-Path finding using reinforcement learning 
+A Python reinforcement learning project that simulates a Sailing Boat finding its way through a grid with obstacles from Port A to Port B. The objective is to compare the performance of SARSA and Q-Learning algorithms in this task (work in progress).
